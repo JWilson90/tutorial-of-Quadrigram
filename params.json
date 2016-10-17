@@ -1,0 +1,6 @@
+{
+  "name": "Tutorial-of-quadrigram",
+  "tagline": "basic Quadrigram tutorial",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n<body>\r\n\r\n<h1>Quadrigram tutorial</h1>\r\n\r\n<p><div class='q-container' style='max-width:900px; margin:auto; position:relative'> <div style='padding-bottom:35.8%; position:relative'> <iframe src=http://quadrigram.bestiario.org/hosting/jeff_w/quadrigram_tutorial/ width='100%' height='100%' style='border: none; position:absolute'></iframe></div><div style='text-align:right; font-size: 10px'><a href='http://www.quadrigram.com' target='_blank'>Powered by Quadrigram </a></div> </div></p>\r\n\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
